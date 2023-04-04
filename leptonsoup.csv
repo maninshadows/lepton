@@ -1,0 +1,957 @@
+h,t,m,l,,
+"
+",,,,,
+"
+","<head>
+<meta charset=""utf-8""/>
+<meta content=""ie=edge"" http-equiv=""x-ua-compatible""/>
+<meta content=""false"" http-equiv=""ImageToolbar""/>
+<meta content=""width=device-width, maximum-scale = 1.0"" name=""viewport""/>
+<meta content=""Spencer's Retail is a leading retailer that operates multiple retail formats in India."" name=""description"">
+<meta content=""retail, brands, retail stores, value retail, retail formats, 2beme, spencer"" name=""keywords"">
+<meta content=""tW2loRdW-1hFS8zsM3Jg075zEQ0FeBxk9BjUITTw-Bg"" name=""google-site-verification"">
+<link href=""/img/spencersicon.jpg"" rel=""shortcut icon""/>
+<!--<link rel=""alternate"" title=""Spencer's Retail RSS"" href=""http://www.spencersretail.com/rss.xml"">-->
+<meta content=""Store List"" property=""og:title"">
+<meta content=""Store List"" name=""twitter:title""/>
+<title>Spencer's Retail is a leading retailer that operates multiple retail formats in India.</title> <link href=""http://www.spencersretail.com/css/foundation.css"" rel=""stylesheet""/>
+<link href=""http://www.spencersretail.com/css/main.css"" rel=""stylesheet""/>
+<link href=""http://www.spencersretail.com/css/style.css"" rel=""stylesheet""/>
+<link href=""http://www.spencersretail.com/css/jquery.reject.css"" rel=""stylesheet""/>
+<link href=""http://www.spencersretail.com/css/really-simple-jquery-dialog.css"" rel=""stylesheet""/>
+<link href=""http://www.spencersretail.com/css/views.css"" rel=""stylesheet""/>
+<link href=""http://fonts.googleapis.com/css?family=Open+Sans:300,700&amp;subset=latin"" rel=""stylesheet""/>
+<script src=""http://www.spencersretail.com/js/vendor/custom.modernizr.js""></script>
+<script src=""http://www.spencersretail.com/js/vendor/jquery.min.js""></script>
+<script src=""http://www.spencersretail.com/js/vendor/foundation.min.js""></script>
+<script src=""http://www.spencersretail.com/js/vendor/chained.js""></script>
+<script src=""http://www.spencersretail.com/js/vendor/jquery.carouFredSel-6.2.1-packed.js""></script>
+<script src=""http://www.spencersretail.com/js/vendor/jquery.vticker.min.js""></script>
+<script src=""http://www.spencersretail.com/js/vendor/jquery.reject.js""></script>
+<script src=""http://www.spencersretail.com/js/vendor/really-simple-jquery-dialog.js""></script>
+<script type=""text/javascript"">		
+$(function() { $.reject({
+				reject: {
+					all: false,
+					safari: 4, // Apple Safari
+					chrome: 15, // Google Chrome
+					firefox: 8, // Mozilla Firefox
+					msie: 8, // Microsoft Internet Explorer
+					opera: 8, // Opera
+					konqueror: true, // Konqueror (Linux)
+					unknown: true // Everything else
+				},
+				imagePath: '/img/jReject/'
+			}); });		
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!--<script async src=""https://www.googletagmanager.com/gtag/js?id=UA-118252444-1""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-118252444-1');
+</script>-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-118252444-1', 'auto');
+  //ga('create', 'UA-51867777-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--<script type=""text/javascript"" src=""//platform-api.sharethis.com/js/sharethis.js#property=5949027f297abe001240a3bb&product=inline-share-buttons""></script>
+-->
+<!--<script type=""text/javascript"" src=""//platform-api.sharethis.com/js/sharethis.js#property=5949027f297abe001240a3bb&product=custom-share-buttons""></script>-->
+<script src=""//platform-api.sharethis.com/js/sharethis.js#property=5951e491779d2a00128628ad&amp;product=custom-share-buttons"" type=""text/javascript""></script>
+</meta></meta></meta></meta></head>","
+","<body class=""html front not-logged-in no-sidebars page-node"">
+<!--<div class=""skip-link""> <a href=""#main-content"" class=""element-invisible element-focusable"">Skip to main content</a> </div>-->
+<!--/.featured -->
+<div class=""row"" style=""margin-top:10px;"">
+<section class=""block block-block block-block-2"">
+<div class=""large-4 columns""> <a href=""/""><img src=""/img/logo.jpg""/></a> </div>
+<div class=""large-8 columns"" style=""padding-top:20px;"">
+<nav class=""top-bar"">
+<ul class=""title-area"">
+<!-- Title Area -->
+<li class=""hide-for-medium-down""></li>
+<li class=""name"">
+<h1><a href=""#""></a></h1>
+</li>
+<!-- Remove the class ""menu-icon"" to get rid of menu icon. Take out ""Menu"" to just have icon alone -->
+<li class=""toggle-topbar menu-icon""><a href=""#""><span>Menu</span></a></li>
+</ul>
+<section class=""top-bar-section"" style=""text-transform:capitalize;"">
+<!-- Right Nav Section -->
+<ul class=""right"">
+<li class=""has-dropdown""><a href=""/about-us"" style=""font-size:13px"">About us</a>
+<ul class=""dropdown"">
+<li><a href=""/heritage"">Heritage</a></li>
+<li class=""divider""></li>
+<li><a href=""/milestones"">Milestones</a></li>
+<li class=""divider""></li>
+<li><a href=""/formats"">Formats</a></li>
+<li class=""divider""></li>
+<li><a href=""/differentiators"">Differentiators</a></li>
+<li class=""divider""></li>
+<li><a href=""/ambience"">Ambience</a></li>
+<!-- <li><a href=""/investor"" >Investors</a></li>  -->
+<!--<li><a href=""/investors_doc/Board of Directors.pdf"" target=""_blank"" >Board of Directors</a></li>
+                <li><a href=""/investors_doc/Committee Compositions.pdf"" target=""_blank"" >Committee Composition</a></li>   -->
+<li class=""divider""></li>
+</ul>
+</li>
+<li><a href=""/investor"" style=""font-size:13px"">Investor</a></li>
+<li><a href=""/own-brands"" style=""font-size:13px"">Own Brands</a></li>
+<li class=""has-dropdown""><a href=""#"" style=""font-size:13px"">What we sell</a>
+<ul class=""dropdown"">
+<li><a href=""/category/food"">Food</a></li>
+<li class=""divider""></li>
+<li><a href=""/category/personal-care"">Personal Care</a></li>
+<li class=""divider""></li>
+<li><a href=""/category/home"">Home</a></li>
+<li class=""divider""></li>
+<li><a href=""/category/electronics-and-electricals"">Electronics and Electricals</a></li>
+<li class=""divider""></li>
+<li><a href=""/category/fashion-and-accessories"">Fashion and Accessories</a></li>
+<li class=""divider""></li>
+<li><a href=""/category/specialities"">Specialties</a></li>
+<li class=""divider""></li>
+<li><a href=""/category/what-we-do-differently"">What We Do Differently</a></li>
+</ul>
+</li>
+<li><a href=""/store-list"" style=""font-size:13px"">Store Locator</a></li>
+<li><a href=""http://corporate.spencersretail.com/"" style=""font-size:13px; text-decoration:none;"" target=""_blank"">Corporate</a> </li>
+<li class=""show-for-small""><a href=""/offers-month"">Offers Of The Month</a> </li>
+<li class=""show-for-small""><a href=""/spencers-smart-rewards"">Smart Rewards</a> </li>
+<li class=""show-for-small""><a href=""/spencers-gift-card"">Gift Card </a> </li>
+<li class=""liaa"" style=""background-color:#fff !important;""><a class=""aa"" href=""http://rp-sg.in/"" style=""text-decoration:none;"" target=""_blank""><img src=""/img/rp.jpg"" style=""margin-left:15px""/></a></li>
+</ul>
+</section>
+</nav>
+</div>
+</section>
+</div><!--/.l-featured -->
+<div class=""row curved_bg1""> <img alt="""" class=""pageimg"" data-thumb=""/img/storelocate.jpg"" id=""pageimg"" src=""/img/storelocate.jpg"" title=""Spencers Retail""/> </div>
+<div class=""row"">
+<!--<h2 class=""element-invisible"">You are here</h2>-->
+<ul class=""breadcrumbs"">
+<li><a href=""/"">Home</a></li>
+<li class=""current""><a href=""#"">Store List</a></li>
+</ul>
+<!--/.l-help -->
+<section class=""l-help row"">
+<div class=""large-12 columns"">
+<!--<section class=""block block-sharethis block-sharethis-sharethis-block""> </section>-->
+<!--<div class=""sharethis-inline-share-buttons""></div>-->
+<style type=""text/css"">
+.st-custom-button[data-network] {
+		width: 60px;
+		background-repeat: no-repeat;
+		display: inline-block;
+		box-sizing: content-box!important;
+		height: 16px!important;
+		line-height: 16px;
+		background-size: cover;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		position: relative;
+		cursor:pointer;
+   }
+.facebook_btn{
+	    background-image: url(http://w.sharethis.com/images/2017/facebook_counter.png);
+}
+.twitter_btn{
+	    background-image: url(http://w.sharethis.com/images/2017/twitter_counter.png);
+}
+.sharethis_btn{
+	    background-image: url(http://w.sharethis.com/images/2017/sharethis_counter.png);
+}
+</style>
+<div class=""sharethis-wrapper"">
+<div class=""st-custom-button facebook_btn"" data-network=""facebook""></div>
+<div class=""st-custom-button twitter_btn"" data-network=""twitter""></div>
+<div class=""st-custom-button sharethis_btn"" data-network=""sharethis""></div>
+</div> </div>
+</section>
+<!--/.l-help -->
+</div>
+<div class=""row"">
+<div class=""large-12 columns"" style=""line-height:150%; text-align:justify;""> <span style=""font-size:18px; font-weight:bold; color:#f8941d; ""> Store List </span>
+<hr/>
+<div class=""view view-store-list view-id-store_list view-display-id-page view-dom-id-35722d3cac67fb8cc30cdd86c36eb17a"">
+<div class=""view-filters"">
+<form accept-charset=""UTF-8"" action=""http://www.spencersretail.com/store-list"" id=""views-exposed-form-store-list-page"" method=""post"">
+<input name=""_token"" type=""hidden"" value=""HHTX20FIH7eaGjmqrUn5xgBHMNeKuhC89V9CfIl5""/>
+<div>
+<div class=""views-exposed-form"">
+<div class=""views-exposed-widgets clearfix"">
+<div class=""views-exposed-widget views-widget-filter-keys"" id=""edit-keys-wrapper"">
+<label for=""edit-keys""> Search Stores </label>
+<div class=""views-widget"">
+<div class=""form-item form-type-textfield form-item-keys"">
+<input class=""form-text"" id=""edit-keys"" maxlength=""128"" name=""search_term"" size=""15"" title=""Enter the terms you wish to search for."" type=""text"" value="""">
+</input></div>
+</div>
+</div>
+<div class=""views-exposed-widget views-widget-filter-field_spencer_type_tid"" id=""edit-field-spencer-type-tid-wrapper"">
+<label for=""edit-field-spencer-type-tid""> Spencer Type </label>
+<div class=""views-widget"">
+<div class=""form-item form-type-select form-item-field-spencer-type-tid"">
+<select class=""form-select"" id=""edit-field-spencer-type-tid2"" name=""spencer_type"">
+<option selected=""selected"" value="""">- Any -</option>
+<option value=""2"">Spencer's Hyper</option>
+<option selected='""selected""' value=""1"">Spencer's Neighborhood Store</option>
+</select>
+</div>
+</div>
+</div>
+<div class=""views-exposed-widget views-widget-filter-field_store_city_tid"" id=""edit-field-store-city-tid-wrapper"">
+<label for=""edit-field-store-city-tid""> Select City </label>
+<div class=""views-widget"">
+<div class=""form-item form-type-select form-item-field-store-city-tid"">
+<select class=""form-select"" id=""edit-field-store-city-tid2"" name=""store_city"">
+<option selected=""selected"" value="""">- Any -</option>
+<option value=""Aligarh"">Aligarh</option>
+<option value=""Allahabad"">Allahabad</option>
+<option value=""Asansol"">Asansol</option>
+<option value=""Bangalore"">Bangalore</option>
+<option value=""Baroda"">Baroda</option>
+<option value=""Belur"">Belur</option>
+<option value=""Bhimavaram"">Bhimavaram</option>
+<option value=""Chennai"">Chennai</option>
+<option value=""Dhanbad"">Dhanbad</option>
+<option value=""Durgapur"">Durgapur</option>
+<option value=""Faridabad"">Faridabad</option>
+<option value=""Ghaziabad"">Ghaziabad</option>
+<option value=""Gorakhpur"">Gorakhpur</option>
+<option value=""Guntur"">Guntur</option>
+<option value=""Gurgaon"">Gurgaon</option>
+<option value=""Haridwar"">Haridwar</option>
+<option value=""Hyderabad"">Hyderabad</option>
+<option value=""Kadapa"">Kadapa</option>
+<option value=""Kakinada"">Kakinada</option>
+<option value=""Kochin"">Kochin</option>
+<option value=""Kodaikanal"">Kodaikanal</option>
+<option value=""Kolkata"">Kolkata</option>
+<option value=""Kurnool"">Kurnool</option>
+<option value=""Lucknow"">Lucknow</option>
+<option value=""Mumbai"">Mumbai</option>
+<option value=""Noida"">Noida</option>
+<option value=""Rajahmundry"">Rajahmundry</option>
+<option value=""Siliguri"">Siliguri</option>
+<option value=""Tanjore"">Tanjore</option>
+<option value=""Tanuku"">Tanuku</option>
+<option value=""Trivandrum"">Trivandrum</option>
+<option value=""Tuticorin"">Tuticorin</option>
+<option value=""Varanasi"">Varanasi</option>
+<option value=""Vijayawada"">Vijayawada</option>
+<option value=""Visakhapatnam"">Visakhapatnam</option>
+<option value=""Vizianagaram"">Vizianagaram</option>
+<option value=""Warangal"">Warangal</option>
+</select>
+</div>
+</div>
+</div>
+<div class=""views-exposed-widget views-widget-sort-by"">
+<div class=""form-item form-type-select form-item-sort-by"">
+<label for=""edit-sort-by"">Sort by </label>
+<select class=""form-select"" id=""edit-sort-by"" name=""sort_by"">
+<option value=""city"">City</option>
+<option value=""state"">State</option>
+</select>
+</div>
+</div>
+<div class=""views-exposed-widget views-widget-sort-order"">
+<div class=""form-item form-type-select form-item-sort-order"">
+<label for=""edit-sort-order"">Order </label>
+<select class=""form-select"" id=""edit-sort-order"" name=""sort_order"">
+<option value=""asc"">Asc</option>
+<option value=""desc"">Desc</option>
+</select>
+</div>
+</div>
+<div class=""views-exposed-widget views-submit-button"">
+<button class=""form-submit"" id=""edit-submit-store-list"" name="""" type=""submit"" value=""Apply"">Apply</button>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class=""view-content"">
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited, HIG-2, Near Ram Ram Bank Chowk  Sector Q, Aliganj</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">226024</span> <span class=""locality"" itemprop=""addressLocality"">Lucknow</span> , <span class=""region"" itemprop=""addressRegion"">Uttar Pradesh</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone""></span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-aliganj-lucknow"">View Details</a></span> </div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencers Retail Limited,Door No:69-31-15/1,Survey No.127 &amp;129, Plot No 56,37,38  GNT Road</span>
+<span class=""additional"" itemprop=""streetAddress"">Land mark SB motors</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">533101</span> <span class=""locality"" itemprop=""addressLocality"">Rajahmundry </span> , <span class=""region"" itemprop=""addressRegion"">Andhra Pradesh</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0883 6900540</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencer?s-neighborhood-store-rajahmundryandhra-pradesh"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">9:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">9:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,Spencer Junction, M G Road</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">695001</span> <span class=""locality"" itemprop=""addressLocality"">Trivandrum</span> , <span class=""region"" itemprop=""addressRegion"">Kerala</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0471-6451300</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-m-g-roadtrivandrum"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,Technopark road,Kadayil View, MMRA, B-1, Sreekaryam</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">695017</span> <span class=""locality"" itemprop=""addressLocality"">Trivandrum</span> , <span class=""region"" itemprop=""addressRegion"">Kerala</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0471-6451700</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-sreekaryamtrivandrum"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,E D Heights, Opp LIC Building Pattom</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">695004</span> <span class=""locality"" itemprop=""addressLocality"">Trivandrum</span> , <span class=""region"" itemprop=""addressRegion"">Kerala</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0471-6451400</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-pattomtrivandrum"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,Diamond Castle, Vellayambalam</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">695010</span> <span class=""locality"" itemprop=""addressLocality"">Trivandrum</span> , <span class=""region"" itemprop=""addressRegion"">Kerala</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0471-6517637</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-vellayambalamtrivandrum"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,D.No - 74-12-6, Flat No - 88,86, Near Ramalayam, Lakshmipathi Puram, AV Rao Peta</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">533103</span> <span class=""locality"" itemprop=""addressLocality"">Rajahmundry</span> , <span class=""region"" itemprop=""addressRegion"">Andhra Pradesh</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0883-6454120</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-lakshmipathi-puramrajahmundry"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:00 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,Shopprix mall-Noida Sec-61, Gautam Budh Nagar</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode""></span> <span class=""locality"" itemprop=""addressLocality"">Noida</span> , <span class=""region"" itemprop=""addressRegion"">Uttar Pradesh</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0120-426690-91</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-shopprix-mallnoida"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">9:00 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,12/85,Club House Road</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">620 101</span> <span class=""locality"" itemprop=""addressLocality"">Kodaikanal</span> , <span class=""region"" itemprop=""addressRegion"">Tamil Nadu</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">241246, 242750</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-club-house-roadkodaikanal"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited, Shop No : 2-4, Sector ? 15, Jharsa Road</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">122001</span> <span class=""locality"" itemprop=""addressLocality"">Gurgaon</span> , <span class=""region"" itemprop=""addressRegion"">Haryana</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0124-4363254</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-sec-15jharsa-roadgurgaon"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">10:00 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,Sector - 4 &amp; 7 Crossing, Jai Cinema Complex, Old Railway Road</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">122001</span> <span class=""locality"" itemprop=""addressLocality"">Gurgaon</span> , <span class=""region"" itemprop=""addressRegion"">Haryana</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0124-6454725</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-old-railway-roadgurgaon"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">10:00 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">22:00 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,Sector - 07, Dharuhera , Rewari District,</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode""></span> <span class=""locality"" itemprop=""addressLocality"">Gurgaon</span> , <span class=""region"" itemprop=""addressRegion"">Haryana</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone""></span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-dharuhera-gurgaon"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">10:00 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,SCF-78 Sec-14 main Market</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode""></span> <span class=""locality"" itemprop=""addressLocality"">Gurgaon</span> , <span class=""region"" itemprop=""addressRegion"">Haryana</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0124-6454284</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-sec-14gurgaon"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">10:00 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,Jaipuria Mall, Indirapuram</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode""></span> <span class=""locality"" itemprop=""addressLocality"">Ghaziabad</span> , <span class=""region"" itemprop=""addressRegion"">Uttar Pradesh</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0120-4336042</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-indirapuramghaziabad"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">10:00 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited, Plot NO- A1/13, Sector - IIA, S.S Banerjee Road, Opposite to STPI, BidhanNagar</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">713212</span> <span class=""locality"" itemprop=""addressLocality"">Durgapur</span> , <span class=""region"" itemprop=""addressRegion"">West Bengal</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">0343 - 6456640</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-bidhannagar-durgapur"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">8:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,No 4/11,22nd st 3rdmain road </span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">600061</span> <span class=""locality"" itemprop=""addressLocality"">Chennai</span> , <span class=""region"" itemprop=""addressRegion"">Tamil Nadu</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">30181175, 30181176</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-nanganallurchennai"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>
+<div class=""views-row storebox"">
+<div class=""views-field views-field-address"">
+<div class=""field-content"">
+<div class=""location vcard"" itemscope="""" itemtype=""http://schema.org/PostalAddress"">
+<div class=""adr""> <span class=""fn"" itemprop=""name"">Spencer's Neighborhood Store</span>
+<div class=""street-address"">
+<span itemprop=""streetAddress"">Spencer Retail Limited,No.13, Rajendraprasad Road, Nehru Nagar, Chrompet</span>
+</div>
+<span class=""postal-code"" itemprop=""postalCode"">600044</span> <span class=""locality"" itemprop=""addressLocality"">Chennai</span> , <span class=""region"" itemprop=""addressRegion"">Tamil Nadu</span>
+<div class=""country-name"" itemprop=""addressCountry"">India</div>
+<div class=""tel""> <abbr class=""type"" title=""voice"">Phone:</abbr> <span class=""value"" itemprop=""telephone"">30181245, 30181246</span> </div>
+</div>
+</div>
+</div>
+</div>
+<div class=""views-field views-field-view-node""> <span class=""field-content""><a href=""http://www.spencersretail.com/stores/spencers-neighborhood-store-chrompetchennai"">View Details</a></span> </div>
+<div class=""views-field views-field-field-opens-at""> <span class=""views-label views-label-field-opens-at"">Opens At: </span>
+<div class=""field-content"">7:30 AM</div>
+</div>
+<div class=""views-field views-field-field-closes-at""> <span class=""views-label views-label-field-closes-at"">Closes At: </span>
+<div class=""field-content"">21:30 PM</div>
+</div>
+</div>",,
+"<div class=""""views-row storebox"""">",,,,,
+"<div class=""""views-field views-field-address"""">",,,,,
+"<div class=""""field-content"""">",,,,,
+"<div class=""""location vcard"""" itemscope="""""""" itemtype=""""http://schema.org/PostalAddress"""">",,,,,
+"<div class=""""adr""""> <span class=""""fn"""" itemprop=""""name"""">Spencer's Neighborhood Store</span>",,,,,
+"<div class=""""street-address"""">",,,,,
+"<span itemprop=""""streetAddress"""">Spencer Retail Limited",No. PC-3, Collector Nagar Main Road, Mogappair East</span>,,
+</div>,,,,,
+"<span class=""""postal-code"""" itemprop=""""postalCode"""">600050</span> <span class=""""locality"""" itemprop=""""addressLocality"""">Chennai</span> "," <span class=""""region"""" itemprop=""""addressRegion"""">Tamil Nadu</span>",,,,
+"<div class=""""country-name"""" itemprop=""""addressCountry"""">India</div>",,,,,
+"<div class=""""tel""""> <abbr class=""""type"""" title=""""voice"""">Phone:</abbr> <span class=""""value"""" itemprop=""""telephone"""">30181320", 30181321</span> </div>,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""views-field views-field-view-node""""> <span class=""""field-content""""><a href=""""http://www.spencersretail.com/stores/spencers-neighborhood-store-mogappair-eastchennai"""">View Details</a></span> </div>",,,,,
+"<div class=""""views-field views-field-field-opens-at""""> <span class=""""views-label views-label-field-opens-at"""">Opens At: </span>",,,,,
+"<div class=""""field-content"""">7:30 AM</div>",,,,,
+</div>,,,,,
+"<div class=""""views-field views-field-field-closes-at""""> <span class=""""views-label views-label-field-closes-at"""">Closes At: </span>",,,,,
+"<div class=""""field-content"""">21:30 PM</div>",,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""views-row storebox"""">",,,,,
+"<div class=""""views-field views-field-address"""">",,,,,
+"<div class=""""field-content"""">",,,,,
+"<div class=""""location vcard"""" itemscope="""""""" itemtype=""""http://schema.org/PostalAddress"""">",,,,,
+"<div class=""""adr""""> <span class=""""fn"""" itemprop=""""name"""">Spencer's Neighborhood Store</span>",,,,,
+"<div class=""""street-address"""">",,,,,
+"<span itemprop=""""streetAddress"""">Spencer Retail Limited",HIG 39, NH 1, Vallal M.G.R Salai, Maraimalai Nagar, Kanchipuram Dist.</span>
+</div>,,,,,
+"<span class=""""postal-code"""" itemprop=""""postalCode""""></span> <span class=""""locality"""" itemprop=""""addressLocality"""">Chennai</span> "," <span class=""""region"""" itemprop=""""addressRegion"""">Tamil Nadu</span>",,,,
+"<div class=""""country-name"""" itemprop=""""addressCountry"""">India</div>",,,,,
+"<div class=""""tel""""> <abbr class=""""type"""" title=""""voice"""">Phone:</abbr> <span class=""""value"""" itemprop=""""telephone"""">30181085", 30181301</span> </div>,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""views-field views-field-view-node""""> <span class=""""field-content""""><a href=""""http://www.spencersretail.com/stores/spencers-neighborhood-store-kanchipuram-distchennai"""">View Details</a></span> </div>",,,,,
+"<div class=""""views-field views-field-field-opens-at""""> <span class=""""views-label views-label-field-opens-at"""">Opens At: </span>",,,,,
+"<div class=""""field-content"""">7:30 AM</div>",,,,,
+</div>,,,,,
+"<div class=""""views-field views-field-field-closes-at""""> <span class=""""views-label views-label-field-closes-at"""">Closes At: </span>",,,,,
+"<div class=""""field-content"""">21:30 PM</div>",,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""views-row storebox"""">",,,,,
+"<div class=""""views-field views-field-address"""">",,,,,
+"<div class=""""field-content"""">",,,,,
+"<div class=""""location vcard"""" itemscope="""""""" itemtype=""""http://schema.org/PostalAddress"""">",,,,,
+"<div class=""""adr""""> <span class=""""fn"""" itemprop=""""name"""">Spencer's Neighborhood Store</span>",,,,,
+"<div class=""""street-address"""">",,,,,
+"<span itemprop=""""streetAddress"""">Spencer Retail Limited",No. 41/4, East Coast Road, Thiruvanmiyur</span>,,
+</div>,,,,,
+"<span class=""""postal-code"""" itemprop=""""postalCode""""> 600 041</span> <span class=""""locality"""" itemprop=""""addressLocality"""">Chennai</span> "," <span class=""""region"""" itemprop=""""addressRegion"""">Tamil Nadu</span>",,,,
+"<div class=""""country-name"""" itemprop=""""addressCountry"""">India</div>",,,,,
+"<div class=""""tel""""> <abbr class=""""type"""" title=""""voice"""">Phone:</abbr> <span class=""""value"""" itemprop=""""telephone"""">30181360", 30181361</span> </div>,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""views-field views-field-view-node""""> <span class=""""field-content""""><a href=""""http://www.spencersretail.com/stores/spencers-neighborhood-store-thiruvanmiyurchennai"""">View Details</a></span> </div>",,,,,
+"<div class=""""views-field views-field-field-opens-at""""> <span class=""""views-label views-label-field-opens-at"""">Opens At: </span>",,,,,
+"<div class=""""field-content"""">7:30 AM</div>",,,,,
+</div>,,,,,
+"<div class=""""views-field views-field-field-closes-at""""> <span class=""""views-label views-label-field-closes-at"""">Closes At: </span>",,,,,
+"<div class=""""field-content"""">21:30 PM</div>",,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""pagination-centered"""">",,,,,
+"<div class=""""item-list"""">",,,,,
+"<ul class=""""pagination pager"""">",,,,,
+"<li class=""""disabled""""><span>«</span></li>",,,,,
+"<li class=""""current""""><a href=""""#""""><span>1</span></a></li>",,,,,
+"<li><a href=""""http://www.spencersretail.com/store-list?spencer_type=1&amp;page=2"""">2</a></li>",,,,,
+"<li><a href=""""http://www.spencersretail.com/store-list?spencer_type=1&amp;page=3"""">3</a></li>",,,,,
+"<li><a href=""""http://www.spencersretail.com/store-list?spencer_type=1&amp;page=4"""">4</a></li>",,,,,
+"<li><a href=""""http://www.spencersretail.com/store-list?spencer_type=1&amp;page=5"""">5</a></li>",,,,,
+"<li><a href=""""http://www.spencersretail.com/store-list?spencer_type=1&amp;page=2"""" rel=""""next"""">»</a></li>",,,,,
+</ul>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""row"""" style=""""max-height: 10px !important;"""">",,,,,
+<hr>,,,,,
+</hr></div>,,,,,
+<!--middle box start!-->,,,,,
+"<div class=""""row"""" style="""" background-color: #f8f8f8 !important; margin-top: 10px;"""">",,,,,
+"<div class=""""large-12 columns"""">",,,,,
+"<div class=""""large-4 columns c01"""" style=""""background-color: #f8f8f8!important; border-right: solid thin #f49320; """">",,,,,
+"<section class=""""block block-block block-block-3""""> <img src=""""/img/whatsnew.jpg""""/> <span style=""""font-size:0.85em; font-weight:bold;"""">",,,,,
+"<div class=""""view view-whats-new-ticker view-id-whats_new_ticker view-display-id-block view-dom-id-726f86e188cf573588f37669a7f4ae44"""">",,,,,
+"<div class=""""view-content"""">",,,,,
+<!-- start scroll -->,,,,,
+"<div class=""""view view-whats_new_ticker"""">",,,,,
+"<div class=""""view-content view-content-whats_new_ticker"""">",,,,,
+"<div id=""""views-ticker-vTicker-whats_new_ticker"""">",,,,,
+<ul>,,,,,
+"<li><p style=""""background-color: #f99b2a; color: #fff;""""><strong>Spencer’s opens 3rd Hyper store in Lucknow</strong></p></li>",,,,,
+<li><p><strong>Spencer’s wins the Most Admired Retailer of the Year  – EAST at EIRS 2016</strong></p></li>,,,,,
+<li><p><strong>Spencer’s introduces ‘The Tropical Paradise’ and ‘Guruttwakarshan’ range of apparel for summers</strong></p></li>,,,,,
+</ul>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+<!-- end scroll -->,,,,,
+</div>,,,,,
+</div>,,,,,
+</span> </section>,,,,,
+</div>,,,,,
+"<div class=""""row show-for-portrait"""" style=""""background-color: #f8f8f8 !important; """"> <img src=""""/img/midline2.gif""""/> </div>",,,,,
+"<div class=""""large-4 columns c02"""" style=""""background-color: #f8f8f8 !important; border-right: solid thin #f49320;"""">",,,,,
+"<section class=""""block block-block block-block-4""""> <img src=""""/img/storeLocator.jpg""""/><br/>",,,,,
+"<div style=""""width:95%; margin-left:5%; font-size:0.85em;"""">",,,,,
+"<form accept-charset=""""UTF-8"""" action=""""/store-list"""" id=""""views-exposed-form-store-list-page"""" method=""""get"""">",,,,,
+"<div style=""""margin-top:20px;""""> Format :-",,,,,
+"              <select class=""""form-select"""" id=""""edit-field-spencer-type-tid"""" name=""""spencer_type"""" style=""""width:80%; height:26px; border:1 #666 thin;  padding-top:0px; color:#555555;"""">",,,,,
+"<option selected=""""selected"""" value=""""All"""">- Any -</option>",,,,,
+"<option value=""""2"""">Spencer's Hyper</option>",,,,,
+"<option value=""""1"""">Spencer's Neighborhood Store</option>",,,,,
+</select>,,,,,
+</div>,,,,,
+"<div style=""""margin-top:10px;""""> <span style=""""margin-right:20px;"""">City :-</span>",,,,,
+"<select class=""""form-select"""" id=""""edit-field-store-city-tid"""" name=""""store_city"""" style=""""width:80%; height:26px; border:1 #666 thin;  padding-top:0px; color:#555555;"""">",,,,,
+"<option selected=""""selected"""" value=""""All"""">- Any -</option>",,,,,
+"<option class=""""2"""" value=""""Aligarh"""">Aligarh</option>",,,,,
+"<option class=""""1"""" value=""""Allahabad"""">Allahabad</option>",,,,,
+"<option class=""""1"""" value=""""Asansol"""">Asansol</option>",,,,,
+"<option class=""""2 1"""" value=""""Bangalore"""">Bangalore</option>",,,,,
+"<option class=""""2"""" value=""""Baroda"""">Baroda</option>",,,,,
+"<option class=""""2"""" value=""""Belur"""">Belur</option>",,,,,
+"<option class=""""1"""" value=""""Bhimavaram"""">Bhimavaram</option>",,,,,
+"<option class=""""1"""" value=""""Chennai"""">Chennai</option>",,,,,
+"<option class=""""2"""" value=""""Dhanbad"""">Dhanbad</option>",,,,,
+"<option class=""""2 1"""" value=""""Durgapur"""">Durgapur</option>",,,,,
+"<option class=""""1"""" value=""""Faridabad"""">Faridabad</option>",,,,,
+"<option class=""""2 1"""" value=""""Ghaziabad"""">Ghaziabad</option>",,,,,
+"<option class=""""2"""" value=""""Gorakhpur"""">Gorakhpur</option>",,,,,
+"<option class=""""2"""" value=""""Guntur"""">Guntur</option>",,,,,
+"<option class=""""2 1"""" value=""""Gurgaon"""">Gurgaon</option>",,,,,
+"<option class=""""2"""" value=""""Haridwar"""">Haridwar</option>",,,,,
+"<option class=""""2 1"""" value=""""Hyderabad"""">Hyderabad</option>",,,,,
+"<option class=""""2"""" value=""""Kadapa"""">Kadapa</option>",,,,,
+"<option class=""""2"""" value=""""Kakinada"""">Kakinada</option>",,,,,
+"<option class=""""2 1"""" value=""""Kochin"""">Kochin</option>",,,,,
+"<option class=""""1"""" value=""""Kodaikanal"""">Kodaikanal</option>",,,,,
+"<option class=""""2 1"""" value=""""Kolkata"""">Kolkata</option>",,,,,
+"<option class=""""2"""" value=""""Kurnool"""">Kurnool</option>",,,,,
+"<option class=""""2 1"""" value=""""Lucknow"""">Lucknow</option>",,,,,
+"<option class=""""2"""" value=""""Mumbai"""">Mumbai</option>",,,,,
+"<option class=""""2 1"""" value=""""Noida"""">Noida</option>",,,,,
+"<option class=""""1"""" value=""""Rajahmundry"""">Rajahmundry</option>",,,,,
+"<option class=""""2"""" value=""""Siliguri"""">Siliguri</option>",,,,,
+"<option class="""""""" value=""""Tanjore"""">Tanjore</option>",,,,,
+"<option class="""""""" value=""""Tanuku"""">Tanuku</option>",,,,,
+"<option class=""""2 1"""" value=""""Trivandrum"""">Trivandrum</option>",,,,,
+"<option class="""""""" value=""""Tuticorin"""">Tuticorin</option>",,,,,
+"<option class=""""1"""" value=""""Varanasi"""">Varanasi</option>",,,,,
+"<option class=""""2"""" value=""""Vijayawada"""">Vijayawada</option>",,,,,
+"<option class=""""2 1"""" value=""""Visakhapatnam"""">Visakhapatnam</option>",,,,,
+"<option class=""""1"""" value=""""Vizianagaram"""">Vizianagaram</option>",,,,,
+"<option class=""""1"""" value=""""Warangal"""">Warangal</option>",,,,,
+</select>,,,,,
+</div>,,,,,
+"<div style=""""margin-top:10px; text-align:center;"""">",,,,,
+"<input src=""""/img/searchstore.png"""" type=""""image""""/>",,,,,
+</div>,,,,,
+</form>,,,,,
+</div>,,,,,
+</section>,,,,,
+</div>,,,,,
+"<div class=""""row show-for-portrait"""" style=""""background-color: #f8f8f8 !important; """"> <img src=""""/img/midline2.gif""""/> </div>",,,,,
+"<div class=""""large-4 columns c03"""" style=""""background-color: #f8f8f8 !important; """">",,,,,
+"<section class=""""block block-block block-block-5"""">",,,,,
+"<p style=""""text-align: center;""""><a href=""""/feedback/your-views-matter""""><img alt="""""""" src=""""/img/yvmlatest.png"""" style=""""max-width:100%; height:auto;""""/><!--<img style=""""width: 60%; height: 60%;"""" src=""""/img/yvmnew.jpg"""" alt="""""""" width=""""286"""" height=""""220"""" />--></a></p>",,,,,
+</section>,,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+"<script type=""""text/javascript"""">",,,,,
+"		jQuery(document).ready(	function($){",,,,,
+"		  $(""""#edit-field-store-city-tid"""").chained(""""#edit-field-spencer-type-tid"""");",,,,,
+"		  $(""""#views-ticker-vTicker-whats_new_ticker"""").vTicker();",,,,,
+"		});",,,,,
+</script>,,,,,
+<!-- featured product start!-->,,,,,
+<!--featured product end!-->,,,,,
+<!--footer start!-->,,,,,
+"<div class=""""row"""" style=""""margin-top: 10px;"""">",,,,,
+"<section class=""""block block-block block-block-7"""">",,,,,
+"<div class=""""large-12 columns"""" style=""""background-color: #f8f8f8 !important;"""">",,,,,
+"<div class=""""large-3 columns"""" style=""""margin-top: 10px; background-color: #f8f8f8 !important;"""">",,,,,
+"<div class=""""row"""" style=""""background-color: #f8f8f8 !important;"""">",,,,,
+"<div class=""""large-11 columns""""><span style=""""font-size: 14px; font-weight: bold; color: #f79c29; text-transform: capitalize;"""">About Us</span>",,,,,
+<hr/>,,,,,
+"<ul style=""""list-style: none;margin-top: -10px;font-size: 13px;"""">",,,,,
+"<li><a href=""""/heritage"""" style=""""color: black !important;"""">Heritage</a></li>",,,,,
+"<li><a href=""""/differentiators"""" style=""""color: black !important;"""">Differentiators</a></li>",,,,,
+"<li><a href=""""/innovations-0"""" style=""""color: black !important;"""">Innovations</a></li>",,,,,
+"<li><a href=""""/awards"""" style=""""color: black !important;"""">Awards</a></li>",,,,,
+"<li><a href=""""/milestones"""" style=""""color: black !important;"""">Milestones</a></li>",,,,,
+"<li><a href=""""http://www.spencers.in/"""" style=""""color: black !important;"""" target=""""_blank"""">Online Grocery Shopping</a></li>",,,,,
+</ul>,,,,,
+</div>,,,,,
+"<div class=""""large-1 columns columns show-for-medium-up""""> </div>",,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""large-3 columns"""" style=""""margin-top: 10px;"""">",,,,,
+"<div class=""""row"""" style=""""background-color: #f8f8f8 !important;"""">",,,,,
+"<div class=""""large-11 columns""""><span style=""""font-size: 14px; font-weight: bold; color: #f79c29; text-transform: capitalize;"""">Gift Card</span>",,,,,
+<hr/>,,,,,
+"<ul style=""""list-style: none; margin-top: -10px; font-size: 13px;"""">",,,,,
+"<li><a href=""""/spencers-gift-card"""" style=""""color: black !important;"""">About Gift Card</a></li>",,,,,
+"<li><a href=""""/t-c"""" style=""""color: black !important;"""">Terms &amp; Conditions</a></li>",,,,,
+"<li><a href=""""/faq-gift-card"""" style=""""color: black !important;"""">FAQs</a></li>",,,,,
+"<li><a href=""""http://spencers.giftbig.com/"""" style=""""color: black !important;"""" target=""""_blank"""">Buy Spencer's Gift Card</a></li>",,,,,
+"<li><a href=""""http://spencers.giftbig.com/balenq"""" style=""""color: black !important;"""" target=""""_blank"""">My Gift Card Balance</a></li>",,,,,
+</ul>,,,,,
+</div>,,,,,
+"<div class=""""large-1 columns columns show-for-medium-up""""> </div>",,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""large-3 columns"""" style=""""margin-top: 10px;"""">",,,,,
+"<div class=""""row"""" style=""""background-color: #f8f8f8 !important;"""">",,,,,
+"<div class=""""large-11 columns""""><span style=""""font-size: 14px; font-weight: bold; color: #f79c29; text-transform: capitalize;"""">Contact Us</span>",,,,,
+<hr/>,,,,,
+"<p style=""""margin-top: -10px; font-size: 13px;"""">For Customer Queries &amp; Complaints:<br/>",,,,,
+              E-mail: customercare@spencers.in<br/>,,,,,
+              Tel:1800-103-0134 (9 AM to 9 PM everyday)</p>,,,,,
+<br/>,,,,,
+"<!-- <p style=""""font-size: 13px;"""">For Business Queries:&nbsp;<a style=""""color: black !important; text-decoration: underline;"""" href=""""http://corporate.spencersretail.com/contactus.php"""" >Click Here</a></p> -->",,,,,
+</div>,,,,,
+"<div class=""""large-1 columns columns show-for-medium-up""""> </div>",,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""large-3 columns"""" style=""""margin-top: 10px;"""">",,,,,
+"<div class=""""row"""" style=""""background-color: #f8f8f8 !important;"""">",,,,,
+"<!-- <div class=""""large-11 columns""""><span style=""""font-size: 14px; font-weight: bold; color: #f79c29; text-transform: capitalize;"""">Smart Rewards</span>",,,,,
+            <hr />,,,,,
+"            <ul style=""""list-style: none; margin-top: -10px; font-size: 13px;"""">",,,,,
+"              <li><a style=""""color: black !important;"""" href=""""http://yvm.spencersretail.com/smartrewards/"""" >Member Login</a></li>",,,,,
+"              <li><a style=""""color: black !important;"""" href=""""/spencers-smart-rewards"""">About the program</a></li>",,,,,
+"              <li><a style=""""color: black !important;"""" href=""""/benefits"""">Benefits</a></li>",,,,,
+"              <li><a style=""""color: black !important;"""" href=""""#"""" >Card Activation</a></li>",,,,,
+"              <li><a style=""""color: black !important;"""" href=""""http://yvm.spencersretail.com/smartrewards/card_request.php"""" >Request A Card</a></li>",,,,,
+"              <li><a style=""""color: black !important;"""" href=""""/t-c-0"""">Terms &amp; Conditions</a></li>",,,,,
+"              <li><a style=""""color: black !important;"""" href=""""/faqs"""">FAQs</a></li>",,,,,
+            </ul>,,,,,
+          </div>-->,,,,,
+"<div class=""""large-11 columns""""><span style=""""font-size: 14px; font-weight: bold; color: #f79c29; text-transform: capitalize;"""">Information</span>",,,,,
+<hr/>,,,,,
+"<ul style=""""list-style: none; margin-top: -10px; font-size: 13px;"""">",,,,,
+"<li><a href=""""/m-t-c"""" style=""""color: black !important;"""">Terms &amp; Conditions</a></li>",,,,,
+</ul>,,,,,
+</div>,,,,,
+"<div class=""""large-1 columns columns show-for-medium-up""""> </div>",,,,,
+</div>,,,,,
+</div>,,,,,
+</div>,,,,,
+"<div class=""""large-12 columns"""" style="""" font-size:13px !important;padding:5px; background-color: #f8f8f8 !important;"""">",,,,,
+"<span style=""""font-weight:bold;"""">Serving Cities:</span>",,,,,
+    ,,,,,
+"     <a href=""""http://www.spencers.in/grocery-shopping-chennai"""" style=""""color:#000 !important;"""" target=""""_blank"""">Chennai</a> | ",,,,,
+"    <a href=""""http://www.spencers.in/grocery-shopping-hyderabad"""" style=""""color:#000 !important;"""" target=""""_blank"""">Hyderabad</a> | ",,,,,
+"    <a href=""""http://www.spencers.in/grocery-shopping-lucknow"""" style=""""color:#000 !important;"""" target=""""_blank"""">Lucknow</a> |",,,,,
+"    <!--<a href=""""http://www.spencers.in/grocery-shopping-guntur"""" target=""""_blank"""" style=""""color:#000 !important;"""">Guntur</a> |-->",,,,,
+"<a href=""""http://www.spencers.in/grocery-shopping-gorakhpur"""" style=""""color:#000 !important;"""" target=""""_blank"""">Gorakhpur</a> |",,,,,
+"    <!-- <a href=""""http://www.spencers.in/grocery-shopping-vijayawada"""" target=""""_blank"""" style=""""color:#000 !important;"""">Vijayawada</a> |",,,,,
+"   <a href=""""http://www.spencers.in/grocery-shopping-kakinada"""" target=""""_blank"""" style=""""color:#000 !important;"""">Kakinada</a> |-->",,,,,
+"<a href=""""http://www.spencers.in/grocery-shopping-vizag"""" style=""""color:#000 !important;"""" target=""""_blank"""">Vizag</a> |",,,,,
+"    <a href=""""http://www.spencers.in/grocery-shopping-kolkata"""" style=""""color:#000 !important;"""" target=""""_blank"""">Kolkata</a> |",,,,,
+"    <a href=""""http://www.spencers.in/grocery-shopping-gurgaon"""" style=""""color:#000 !important;"""" target=""""_blank"""">Gurgaon</a> |",,,,,
+"    <a href=""""http://www.spencers.in/grocery-shopping-noida"""" style=""""color:#000 !important;"""" target=""""_blank"""">Noida</a> |",,,,,
+"    <a href=""""http://www.spencers.in/grocery-shopping-ghaziabad"""" style=""""color:#000 !important;"""" target=""""_blank"""">Ghaziabad</a> |",,,,,
+"    <a href=""""http://www.spencers.in/grocery-shopping-delhi"""" style=""""color:#000 !important;"""" target=""""_blank"""">Delhi</a>",,,,,
+</div>,,,,,
+"<div class=""""large-12 columns"""" style=""""background-color: #F7941D !important; height:25px !important; font-size:12px !important;padding:5px;""""><a href=""""/privacy-policy"""" style=""""color:#000 !important;"""">Privacy</a> | <a href=""""/site-map"""" style=""""color:#000 !important;"""">Sitemap</a> | <a href=""""/disclaimer"""" style=""""color:#000 !important;"""">Disclaimer</a> | Copyright © Spencer's Retail  2016. All rights reserved.</div>",,,,,
+</section>,,,,,
+</div><!--footer end!-->,,,,,
+"<script src=""""http://www.spencersretail.com/js/app.js""""></script>",,,,,
+"</body>""","
+",,,,
